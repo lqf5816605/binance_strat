@@ -1,0 +1,368 @@
+2020-10-13 08:59:25,464 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 09:10:18,359 - my_logger - INFO - strat_id ma_cross -- symbol UNIUSDT  open short position
+2020-10-13 09:16:25,329 - my_logger - INFO - strat_id ma_cross -- symbol UNIUSDT  time decay 
+2020-10-13 09:45:20,761 - my_logger - INFO - strat_id ma_cross -- symbol TRBUSDT  open short position
+2020-10-13 09:46:49,621 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 09:47:02,833 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 09:48:54,383 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 09:51:18,948 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:11:55,973 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:22:44,522 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:34:50,984 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:35:44,747 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:35:57,673 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:38:47,728 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:40:01,327 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:47:10,119 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:47:35,049 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:51:32,268 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:52:32,866 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:52:44,856 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:54:12,503 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:58:01,259 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 10:59:28,191 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 11:02:29,663 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 11:03:16,659 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 11:06:50,935 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 11:08:11,066 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 11:10:45,520 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 11:10:50,469 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 11:12:15,890 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 11:17:25,607 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 11:18:17,784 - my_logger - INFO - strat_id ma_cross -- symbol TRBUSDT  open short position
+2020-10-13 11:31:37,599 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 11:39:29,149 - my_logger - INFO - strat_id ma_cross -- symbol TRBUSDT  stop loss 
+2020-10-13 11:40:20,383 - my_logger - INFO - strat_id ma_cross -- symbol UNIUSDT  open short position
+2020-10-13 12:10:20,357 - my_logger - INFO - strat_id ma_cross -- symbol TRBUSDT  open long position
+2020-10-13 12:10:31,047 - my_logger - INFO - strat_id ma_cross -- symbol UNIUSDT  time decay 
+2020-10-13 12:20:14,556 - my_logger - INFO - strat_id ma_cross -- symbol YFIIUSDT  open long position
+2020-10-13 12:30:29,071 - my_logger - INFO - strat_id ma_cross -- symbol TRBUSDT  time decay 
+2020-10-13 12:35:15,548 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  open long position
+2020-10-13 12:40:23,027 - my_logger - INFO - strat_id ma_cross -- symbol YFIIUSDT  time decay 
+2020-10-13 12:46:13,871 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 12:48:11,663 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 12:55:21,890 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  time decay 
+2020-10-13 13:50:00,192 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 16:02:31,098 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 16:03:38,639 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 16:04:38,617 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 16:05:21,175 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  open long position
+2020-10-13 16:05:21,894 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open long position
+2020-10-13 16:06:19,974 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 16:06:41,038 - my_logger - INFO - strat_id ma_cross -- symbol YFIIUSDT  open long position
+2020-10-13 16:07:02,858 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 16:07:23,923 - my_logger - INFO - strat_id ma_cross -- symbol YFIIUSDT  open long position
+2020-10-13 16:10:57,368 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 16:11:16,535 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 16:12:19,266 - my_logger - INFO - strat_id ma_cross -- symbol UNIUSDT  open long position
+2020-10-13 16:13:43,046 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 16:14:04,651 - my_logger - INFO - strat_id ma_cross -- symbol UNIUSDT  open long position
+2020-10-13 16:15:28,554 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-13 16:20:57,826 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 16:25:26,676 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  time decay 
+2020-10-13 16:25:37,402 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  open short position
+2020-10-13 16:27:31,834 - my_logger - INFO - strat_id ma_cross -- symbol YFIIUSDT  time decay 
+2020-10-13 16:34:06,089 - my_logger - INFO - strat_id ma_cross -- symbol UNIUSDT  time decay 
+2020-10-13 16:35:19,352 - my_logger - INFO - strat_id ma_cross -- symbol UNIUSDT  open long position
+2020-10-13 16:40:21,979 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open long position
+2020-10-13 16:45:43,439 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  time decay 
+2020-10-13 16:50:23,751 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-13 16:55:13,787 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open long position
+2020-10-13 16:55:24,862 - my_logger - INFO - strat_id ma_cross -- symbol UNIUSDT  time decay 
+2020-10-13 17:05:23,951 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-13 17:05:34,551 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open short position
+2020-10-13 17:15:14,020 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  open short position
+2020-10-13 17:15:35,258 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-13 17:35:18,908 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  time decay 
+2020-10-13 17:55:20,065 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  open short position
+2020-10-13 17:58:10,138 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 18:05:12,330 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  open short position
+2020-10-13 18:15:20,647 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  open short position
+2020-10-13 18:15:22,009 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  time decay 
+2020-10-13 18:16:43,855 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  stop loss 
+2020-10-13 18:16:54,575 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  open short position
+2020-10-13 18:21:12,837 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  stop loss 
+2020-10-13 21:32:13,855 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 21:32:37,107 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 21:43:21,015 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 21:46:33,384 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 21:48:15,241 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 21:48:52,087 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 21:55:18,212 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  open short position
+2020-10-13 22:01:56,464 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  stop loss 
+2020-10-13 22:04:05,545 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 22:07:29,070 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 22:09:54,546 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 22:10:08,832 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 22:10:14,000 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 22:33:47,808 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 22:34:57,952 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 22:36:40,977 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 22:38:21,981 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 22:39:34,854 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 22:40:07,296 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 22:50:31,085 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 22:51:27,296 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-13 23:25:13,708 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  open short position
+2020-10-13 23:45:23,715 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  time decay 
+2020-10-13 23:55:12,865 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  open short position
+2020-10-14 00:05:20,448 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  time decay 
+2020-10-14 00:10:15,801 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open short position
+2020-10-14 00:20:26,955 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-14 00:55:20,543 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open long position
+2020-10-14 01:15:29,917 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-14 02:01:16,835 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  open short position
+2020-10-14 02:11:18,596 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  time decay 
+2020-10-14 03:40:18,461 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open short position
+2020-10-14 03:50:22,596 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-14 04:01:16,393 - my_logger - INFO - strat_id many_bars -- symbol TRBUSDT  open short position
+2020-10-14 05:05:20,810 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  open short position
+2020-10-14 05:15:26,059 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  time decay 
+2020-10-14 05:21:17,099 - my_logger - INFO - strat_id many_bars -- symbol TRBUSDT  time decay 
+2020-10-14 06:01:18,069 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open short position
+2020-10-14 06:05:12,237 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  open short position
+2020-10-14 06:11:25,040 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-14 06:11:35,904 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open short position
+2020-10-14 06:15:17,667 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  time decay 
+2020-10-14 06:21:40,602 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-14 07:18:08,734 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 07:40:19,706 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open short position
+2020-10-14 07:50:12,007 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  open short position
+2020-10-14 07:50:23,316 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-14 07:55:17,264 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  open short position
+2020-10-14 08:00:21,470 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  time decay 
+2020-10-14 08:05:15,423 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open short position
+2020-10-14 08:10:20,862 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  open long position
+2020-10-14 08:15:26,982 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-14 08:17:23,576 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  stop loss 
+2020-10-14 08:20:11,442 - my_logger - INFO - strat_id breakout_volume -- symbol YFIIUSDT  open long position
+2020-10-14 08:25:16,606 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open long position
+2020-10-14 08:30:22,805 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  time decay 
+2020-10-14 08:35:27,612 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-14 09:00:19,812 - my_logger - INFO - strat_id breakout_volume -- symbol YFIIUSDT  time decay 
+2020-10-14 09:15:17,396 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  open short position
+2020-10-14 09:23:44,988 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 09:24:03,047 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 09:26:13,989 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 09:30:15,632 - my_logger - INFO - strat_id many_bars -- symbol UNIUSDT  open short position
+2020-10-14 09:40:16,325 - my_logger - INFO - strat_id many_bars -- symbol SUSHIUSDT  open short position
+2020-10-14 10:00:26,425 - my_logger - INFO - strat_id many_bars -- symbol UNIUSDT  stop loss 
+2020-10-14 10:05:11,593 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  open short position
+2020-10-14 10:05:12,208 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open long position
+2020-10-14 10:15:13,648 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  time decay 
+2020-10-14 10:15:14,562 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-14 10:15:15,669 - my_logger - INFO - strat_id needle -- symbol TRBUSDT  open short position
+2020-10-14 10:15:58,858 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 10:16:18,432 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 10:22:28,752 - my_logger - INFO - strat_id needle -- symbol TRBUSDT  stop loss 
+2020-10-14 10:35:18,094 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  time decay 
+2020-10-14 10:50:14,675 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  open short position
+2020-10-14 11:00:23,883 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  time decay 
+2020-10-14 11:00:26,072 - my_logger - INFO - strat_id many_bars -- symbol SUSHIUSDT  time decay 
+2020-10-14 11:01:18,461 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open long position
+2020-10-14 11:21:20,319 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-14 11:30:19,101 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  open short position
+2020-10-14 11:35:46,354 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  stop loss 
+2020-10-14 12:01:11,428 - my_logger - INFO - strat_id ma_cross -- symbol YFIIUSDT  open short position
+2020-10-14 12:10:20,833 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  open short position
+2020-10-14 12:20:22,516 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  time decay 
+2020-10-14 12:21:16,170 - my_logger - INFO - strat_id ma_cross -- symbol YFIIUSDT  time decay 
+2020-10-14 12:55:02,364 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 13:05:14,108 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  open short position
+2020-10-14 13:18:15,531 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  stop loss 
+2020-10-14 13:25:13,521 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open short position
+2020-10-14 14:45:19,994 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-14 16:15:16,216 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open short position
+2020-10-14 17:35:23,667 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-14 17:55:20,283 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open long position
+2020-10-14 18:15:27,396 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-14 19:27:25,072 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 19:28:30,038 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 20:08:16,875 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 20:10:11,859 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open long position
+2020-10-14 20:34:28,938 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 20:34:50,070 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-14 20:38:11,055 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 21:57:48,268 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 21:58:20,446 - my_logger - INFO - strat_id needle -- symbol YFIIUSDT  open short position
+2020-10-14 21:58:44,404 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 22:05:36,330 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-14 22:26:43,734 - my_logger - INFO - strat_id needle -- symbol YFIIUSDT  stop profit 
+2020-10-14 22:30:14,281 - my_logger - INFO - strat_id ma_cross -- symbol YFIIUSDT  open short position
+2020-10-14 22:30:15,702 - my_logger - INFO - strat_id ma_cross -- symbol TRBUSDT  open short position
+2020-10-14 22:35:17,125 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  open short position
+2020-10-14 22:35:17,877 - my_logger - INFO - strat_id many_bars -- symbol UNIUSDT  open short position
+2020-10-14 22:50:22,964 - my_logger - INFO - strat_id ma_cross -- symbol YFIIUSDT  time decay 
+2020-10-14 22:50:23,841 - my_logger - INFO - strat_id ma_cross -- symbol TRBUSDT  time decay 
+2020-10-14 23:48:15,744 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  stop profit 
+2020-10-14 23:54:02,963 - my_logger - INFO - strat_id many_bars -- symbol UNIUSDT  stop profit 
+2020-10-15 07:11:32,004 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 08:20:18,381 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  open short position
+2020-10-15 08:20:19,238 - my_logger - INFO - strat_id many_bars -- symbol SUSHIUSDT  open short position
+2020-10-15 08:30:20,907 - my_logger - INFO - strat_id many_bars -- symbol UNIUSDT  open short position
+2020-10-15 09:31:23,221 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  stop profit 
+2020-10-15 09:32:56,506 - my_logger - INFO - strat_id many_bars -- symbol SUSHIUSDT  stop profit 
+2020-10-15 09:50:26,728 - my_logger - INFO - strat_id many_bars -- symbol UNIUSDT  time decay 
+2020-10-15 12:42:35,935 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 12:48:35,609 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 12:49:41,067 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 12:51:49,135 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 12:52:06,489 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 12:56:30,069 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 13:05:05,102 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 13:06:45,385 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 13:07:02,639 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 14:47:45,438 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 14:48:51,966 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 14:50:15,362 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  open short position
+2020-10-15 15:10:16,877 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  time decay 
+2020-10-15 15:14:23,811 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 15:14:43,048 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 15:20:17,701 - my_logger - INFO - strat_id many_bars -- symbol UNIUSDT  open short position
+2020-10-15 15:31:14,706 - my_logger - INFO - strat_id many_bars -- symbol SUSHIUSDT  open short position
+2020-10-15 15:40:16,508 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open long position
+2020-10-15 15:55:13,733 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  open long position
+2020-10-15 16:00:25,112 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-15 16:00:25,775 - my_logger - INFO - strat_id many_bars -- symbol UNIUSDT  time decay 
+2020-10-15 16:07:01,924 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  stop loss 
+2020-10-15 16:11:24,162 - my_logger - INFO - strat_id many_bars -- symbol SUSHIUSDT  time decay 
+2020-10-15 16:30:19,669 - my_logger - INFO - strat_id many_bars -- symbol TRBUSDT  open short position
+2020-10-15 17:03:46,184 - my_logger - INFO - strat_id many_bars -- symbol TRBUSDT  stop profit 
+2020-10-15 21:17:24,114 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 21:18:16,570 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open short position
+2020-10-15 21:44:29,253 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 21:46:03,610 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  stop loss 
+2020-10-15 22:05:00,152 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 22:08:31,747 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 22:08:56,162 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  open short position
+2020-10-15 22:11:21,911 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 22:13:25,289 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 22:17:36,155 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-15 22:28:59,606 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  time decay 
+2020-10-15 23:15:18,338 - my_logger - INFO - strat_id breakout_three_doji -- symbol YFIIUSDT  open long position
+2020-10-15 23:35:29,251 - my_logger - INFO - strat_id breakout_three_doji -- symbol YFIIUSDT  time decay 
+2020-10-15 23:55:22,224 - my_logger - INFO - strat_id breakout_three_doji -- symbol YFIIUSDT  open long position
+2020-10-16 00:15:32,722 - my_logger - INFO - strat_id breakout_three_doji -- symbol YFIIUSDT  time decay 
+2020-10-16 00:35:20,846 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open short position
+2020-10-16 01:01:11,702 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  open short position
+2020-10-16 01:41:18,106 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  time decay 
+2020-10-16 01:50:41,022 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  stop loss 
+2020-10-16 02:45:19,042 - my_logger - INFO - strat_id many_bars -- symbol UNIUSDT  open short position
+2020-10-16 07:35:20,063 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 07:35:44,004 - my_logger - INFO - strat_id needle -- symbol YFIIUSDT  open short position
+2020-10-16 07:35:46,050 - my_logger - INFO - strat_id many_bars -- symbol UNIUSDT  stop loss 
+2020-10-16 13:20:54,181 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 13:22:05,794 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 13:22:29,926 - my_logger - INFO - strat_id needle -- symbol YFIIUSDT  stop profit 
+2020-10-16 13:31:11,196 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 13:40:15,921 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  open short position
+2020-10-16 14:10:19,644 - my_logger - INFO - strat_id many_bars -- symbol UNIUSDT  open short position
+2020-10-16 14:20:26,319 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  time decay 
+2020-10-16 14:41:44,973 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 14:42:10,179 - my_logger - INFO - strat_id many_bars -- symbol SUSHIUSDT  open short position
+2020-10-16 14:50:20,820 - my_logger - INFO - strat_id many_bars -- symbol UNIUSDT  time decay 
+2020-10-16 14:59:35,500 - my_logger - INFO - strat_id many_bars -- symbol SUSHIUSDT  stop loss 
+2020-10-16 17:20:13,979 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  open short position
+2020-10-16 17:21:58,070 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  stop loss 
+2020-10-16 17:22:09,207 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  open short position
+2020-10-16 02:50:56,882 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 02:51:25,046 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 02:51:38,357 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 02:52:49,904 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  stop loss 
+2020-10-16 02:53:50,816 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 02:54:59,005 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 02:55:39,068 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 03:11:24,971 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 03:13:17,537 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 03:50:14,496 - my_logger - INFO - strat_id needle -- symbol YFIIUSDT  open short position
+2020-10-16 04:10:20,647 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open long position
+2020-10-16 04:15:16,680 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  open short position
+2020-10-16 04:30:20,364 - my_logger - INFO - strat_id needle -- symbol YFIIUSDT  time decay 
+2020-10-16 04:30:22,088 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-16 04:52:56,146 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  stop loss 
+2020-10-16 04:55:20,287 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  open long position
+2020-10-16 05:08:21,523 - my_logger - INFO - strat_id ma_cross -- symbol SUSHIUSDT  stop loss 
+2020-10-16 05:30:19,788 - my_logger - INFO - strat_id needle -- symbol YFIIUSDT  open short position
+2020-10-16 06:10:27,257 - my_logger - INFO - strat_id needle -- symbol YFIIUSDT  time decay 
+2020-10-16 07:35:20,880 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  open short position
+2020-10-16 07:55:32,345 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  time decay 
+2020-10-16 08:35:18,456 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open long position
+2020-10-16 08:55:22,022 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-16 09:05:22,325 - my_logger - INFO - strat_id ma_cross -- symbol UNIUSDT  open long position
+2020-10-16 09:10:19,064 - my_logger - INFO - strat_id ma_cross -- symbol UNIUSDT  stop loss 
+2020-10-16 17:13:28,709 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 17:14:39,316 - my_logger - INFO - strat_id ma_cross -- symbol YFIIUSDT  open short position
+2020-10-16 17:19:58,924 - my_logger - INFO - strat_id ma_cross -- symbol YFIIUSDT  stop loss 
+2020-10-16 18:11:54,826 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 19:51:22,369 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-16 20:20:21,628 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open long position
+2020-10-16 20:40:31,484 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-16 20:50:19,274 - my_logger - INFO - strat_id breakout_three_doji -- symbol YFIIUSDT  open long position
+2020-10-16 20:57:45,183 - my_logger - INFO - strat_id breakout_three_doji -- symbol YFIIUSDT  stop profit 
+2020-10-16 21:05:20,167 - my_logger - INFO - strat_id breakout_three_doji -- symbol UNIUSDT  open long position
+2020-10-16 21:15:30,417 - my_logger - INFO - strat_id breakout_three_doji -- symbol UNIUSDT  time decay 
+2020-10-16 23:25:20,392 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open long position
+2020-10-16 23:45:30,192 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-17 01:20:16,517 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  open short position
+2020-10-17 01:34:50,403 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-17 01:36:15,867 - my_logger - INFO - strat_id many_bars -- symbol YFIIUSDT  stop loss 
+2020-10-17 01:38:23,043 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-17 02:10:14,117 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open short position
+2020-10-17 02:20:20,216 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-17 02:40:14,000 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open long position
+2020-10-17 02:50:20,906 - my_logger - INFO - strat_id breakout_three_doji -- symbol WAVESUSDT  open long position
+2020-10-17 03:00:19,710 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-17 03:00:21,112 - my_logger - INFO - strat_id breakout_three_doji -- symbol WAVESUSDT  time decay 
+2020-10-17 04:30:17,365 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open long position
+2020-10-17 04:50:29,536 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-17 05:05:18,796 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open long position
+2020-10-17 05:10:22,810 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open short position
+2020-10-17 05:10:24,730 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  open short position
+2020-10-17 05:11:10,326 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-17 05:22:37,220 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-17 05:24:05,165 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  time decay 
+2020-10-17 05:25:15,369 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  open short position
+2020-10-17 05:30:17,111 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  open long position
+2020-10-17 05:35:19,392 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  time decay 
+2020-10-17 05:35:21,047 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  open short position
+2020-10-17 05:37:03,731 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  stop loss 
+2020-10-17 05:37:17,884 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  open short position
+2020-10-17 05:47:23,573 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  time decay 
+2020-10-17 05:50:22,495 - my_logger - INFO - strat_id needle -- symbol SUSHIUSDT  time decay 
+2020-10-17 06:30:33,690 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-17 06:40:19,614 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open long position
+2020-10-17 06:50:23,596 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-17 07:15:07,114 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-17 07:16:32,827 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-17 07:40:13,764 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open short position
+2020-10-17 07:45:19,409 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open short position
+2020-10-17 07:48:53,589 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  stop loss 
+2020-10-17 07:49:06,432 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open short position
+2020-10-17 07:50:16,344 - my_logger - INFO - strat_id breakout_volume -- symbol YFIIUSDT  open long position
+2020-10-17 07:50:19,702 - my_logger - INFO - strat_id breakout_three_doji -- symbol YFIIUSDT  open long position
+2020-10-17 07:50:22,197 - my_logger - INFO - strat_id breakout_three_doji -- symbol SUSHIUSDT  open long position
+2020-10-17 07:50:24,353 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  stop loss 
+2020-10-17 07:50:37,274 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  stop loss 
+2020-10-17 07:51:26,973 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-17 07:52:52,772 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  stop loss 
+2020-10-17 07:57:54,980 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-17 08:00:32,732 - my_logger - INFO - strat_id breakout_three_doji -- symbol SUSHIUSDT  time decay 
+2020-10-17 08:10:23,570 - my_logger - INFO - strat_id breakout_three_doji -- symbol YFIIUSDT  time decay 
+2020-10-17 08:10:28,993 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  open short position
+2020-10-17 08:10:31,204 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  open short position
+2020-10-17 08:20:35,159 - my_logger - INFO - strat_id breakout_volume -- symbol TRBUSDT  time decay 
+2020-10-17 08:30:27,943 - my_logger - INFO - strat_id breakout_volume -- symbol YFIIUSDT  time decay 
+2020-10-17 09:05:16,066 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  open short position
+2020-10-17 09:05:21,469 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open long position
+2020-10-17 09:15:20,717 - my_logger - INFO - strat_id breakout_volume -- symbol SUSHIUSDT  time decay 
+2020-10-17 09:15:23,076 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-17 09:30:30,814 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-17 17:16:10,998 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-17 17:16:55,664 - my_logger - INFO - strat_id needle -- symbol UNIUSDT  time decay 
+2020-10-17 17:18:14,230 - my_logger - INFO - this new test strategy -- learning timing ----
+2020-10-17 17:45:19,685 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open long position
+2020-10-17 17:50:15,524 - my_logger - INFO - strat_id breakout_three_doji -- symbol WAVESUSDT  open long position
+2020-10-17 17:55:29,234 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
+2020-10-17 18:00:20,486 - my_logger - INFO - strat_id breakout_three_doji -- symbol WAVESUSDT  time decay 
+2020-10-17 19:20:13,967 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  open short position
+2020-10-17 19:30:24,882 - my_logger - INFO - strat_id breakout_volume -- symbol UNIUSDT  time decay 
